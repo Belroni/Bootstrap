@@ -1,0 +1,27 @@
+/* nav#container-fluid{
+    background-color: #3A0519;
+    color: #670D2F;
+} */
+
+body{
+    background-color: #5459AC;
+}
+
+.carousel-img{
+    width: 200px; /* o una medida como 600px */
+    height: 400px; /* o el tamaño que desees */
+    object-fit:fill; /* Recorta la imagen para que llene el contenedor sin deformarse */
+}
+/* div#carouselExample{
+    margin: 0px 100px 0px 100px;
+} */
+
+div#lista{
+    margin-top: 30px;
+}
+
+div#footer{
+    /* margin: 30px 0px 10px 0px; */
+    grid-template-columns:auto;
+    margin-top: 30px;
+}
