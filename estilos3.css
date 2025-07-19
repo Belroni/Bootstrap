@@ -8,8 +8,8 @@ body{
 }
 
 .carousel-img{
-    width: 200px; /* o una medida como 600px */
-    height: 400px; /* o el tamaño que desees */
+    width: 200px; 
+    height: 400px; 
     object-fit:fill; /* Recorta la imagen para que llene el contenedor sin deformarse */
 }
 /* div#carouselExample{
